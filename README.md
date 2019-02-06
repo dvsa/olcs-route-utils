@@ -41,7 +41,7 @@ vendor/bin/phpunit
 
 
 ```
-Give an example
+phpcs --standard=PSR2
 ```
 
 
